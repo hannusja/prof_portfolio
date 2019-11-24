@@ -10,8 +10,8 @@ function App() {
       <div>
         <Nav />
         <Switch>
-          <Route exact path="prof_portfolio/" component={Main} />
-          <Route exact path="prof_portfolio/projects" component={Projects} />
+          <Route exact path="/" component={Main} />
+          <Route exact path="/projects" component={Projects} />
         </Switch>
       </div>
     </Router>
