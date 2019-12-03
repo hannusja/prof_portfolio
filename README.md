@@ -1,5 +1,5 @@
-## Professional Portfolio
+# Professional Portfolio
 
 Short summary of my personal info and projects
 
-https://yanjasho.github.io/prof_portfolio/
+[Click here to check it out](https://yanjasho.github.io/prof_portfolio/)
